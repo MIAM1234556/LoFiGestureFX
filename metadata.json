@@ -1,0 +1,7 @@
+{
+  "name": "Y2K Hand FX",
+  "description": "A nostalgic 2000s-style webcam toy. Use gestures to create sparks and neon lines.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
